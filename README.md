@@ -5,7 +5,7 @@
 爬取数据的网站有：
 - 粤语发音词典：http://m.yueyv.com/
 - 汉典：https://www.zdic.net/zd/zb/cc1/ （《现代汉语常用字表》常用字(2500字)）
--       https://www.zdic.net/zd/zb/cc2/ （《现代汉语常用字表》次常用字(1000字)）
+- https://www.zdic.net/zd/zb/cc2/ （《现代汉语常用字表》次常用字(1000字)）
 
 另外粤拼方案参考的网站：https://jyutping.org/ （这个网站真不错）
 
